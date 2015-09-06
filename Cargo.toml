@@ -1,0 +1,4 @@
+[package]
+name = "Rget"
+version = "0.0.1"
+authors = ["Ryo Sugimoto <sugryo@pecily.com>"]
